@@ -10,6 +10,5 @@ function contarA(str) {
     return `A letra 'a' aparece ${count} vezes na string.`;
 }
 
-// Testando a função
-let string = "Abracadabra"; // você pode alterar a string aqui
+let string = "Abracadabra";
 console.log(contarA(string));

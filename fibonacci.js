@@ -17,6 +17,5 @@ function pertenceAFibonacci(num) {
     return `${num} não pertence à sequência de Fibonacci`;
 }
 
-// Testando a função
-let numero = 21; // você pode alterar o número aqui
+let numero = 21;
 console.log(pertenceAFibonacci(numero));
